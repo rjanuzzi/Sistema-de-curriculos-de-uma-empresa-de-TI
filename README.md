@@ -62,7 +62,7 @@ Controle do status de cada currículo no processo de seleção.
 
 - **Java 17**
 - **Spring**
-- **ECLIPSE**
+- **Eclipse**
 - **PostgreSQL** para persistência de dados.
 
 
