@@ -13,7 +13,7 @@ Controle do status de cada currículo no processo de seleção.
 
 ---
 
-Requisitos do Projeto
+## Requisitos do Projeto
 
 ## 1. Modelagem de Dados:
 
